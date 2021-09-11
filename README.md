@@ -38,6 +38,10 @@ It will say `Your site is published at https://user_name.github.io/` when it is 
 
 [sample]: images/sample.png
 
+### Showoff your portofolio!
+`username.github.io` - That is the location of your online portofolio! Share it with your friends and family, and come back regularly to update it! 😉
+
+
 
 
 
