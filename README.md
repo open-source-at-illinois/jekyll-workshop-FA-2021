@@ -1,4 +1,4 @@
-## jekyll-workshop-FA-2021
+# jekyll-workshop-FA-2021
 
 By the end of this workshop, you will have your own Portoflio website.
 
