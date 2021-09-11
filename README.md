@@ -1,6 +1,6 @@
 # jekyll-workshop-FA-2021
 
-By the end of this workshop, you will have your own Portoflio website.
+By the end of this workshop, you will have your own Portoflio website :)
 
 ![Product Name Screen Shot][sample]
 
