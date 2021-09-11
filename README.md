@@ -2,7 +2,7 @@
 
 By the end of this workshop, you will have your own Portoflio website.
 
-[sample]
+![Product Name Screen Shot][sample]
 
 ### Prerequisites
 * Have a GitHub account
@@ -24,7 +24,7 @@ It will say `Your site is published at https://user_name.github.io/` when it is 
 
 ### Making the Portofolio yours!
 1. Replace the text in the `data.yml` file with your data.
-    * TIP: Commit and push your code once after every section you update. Yaml file formatting can be tricky to deal with. 
+    * TIP: Commit and push your code once after every section you update. **Yaml file formatting can be tricky to deal with.**
     * If adding a link, wrap it in double quotes like this `"https://www.google.com/"`
 3. switch out the `profile.png` with your own 100 x 100 profile picture.
     * TIP: Use online image resizers to get your iamge to the 100 x 100 dimension
