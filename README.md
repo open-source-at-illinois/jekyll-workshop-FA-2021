@@ -1,6 +1,8 @@
 ## jekyll-workshop-FA-2021
 
-By the end of this workshop, you will have your own Portoflio website as shown below.
+By the end of this workshop, you will have your own Portoflio website.
+
+[sample]
 
 ### Prerequisites
 * Have a GitHub account
@@ -33,6 +35,8 @@ It will say `Your site is published at https://user_name.github.io/` when it is 
 * `git status` - allows you to check the if the files have been added or not
 * `git commit -m "commit message"` - commits the changes 
 * `git push` - pushes all the commits to GitHub for publishing the website
+
+[sample]: images/sample.png
 
 
 
